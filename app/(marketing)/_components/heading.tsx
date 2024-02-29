@@ -26,7 +26,7 @@ export const Heading = () => {
       )}
       {isAuthenticated && !isLoading && (
         <Button>
-          <Link href='\document'>Enter Jotion</Link>
+          <Link href='\documents'>Enter Jotion</Link>
           <ArrowRight className='h-4 w-4 ml-2' />
         </Button>
       )}

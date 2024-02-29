@@ -1,0 +1,2 @@
+npx convex dev
+ 02:04 problem with menu
